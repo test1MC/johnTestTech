@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\jcastaneda\Desktop\TFS"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="scm"
+  ProviderType="Microsoft Team Foundation Server"
+  Database="http://win2k16tfs18:8080/tfs/DefaultCollection/"
+  DatabaseRoot="$/ielichTest/TFS/"></CatapultDestination>
